@@ -1,3 +1,9 @@
-# Gerenciador_Python
-Gerenciador de dados de uma locadora de veículos em Python <br>
-Nessa aplicação, é possível armazenar os dados dos veículos, dos clientes e dos alugueis e depois requisita-los na tela.
+# Gerenciador de Locadora de Veículos
+
+- Aplicação responsável por gerenciar dados de uma loja locadora de veículos.
+
+## Estrutura do algoritmo
+
+- Por meio de classes e funções a aplicação possibilita o usuário inserir informações sobre os veículos, clientes e aluguéis, requisitar esses dados e perpetuar os dados por meio do armazenamento em arquivos .txt.
+
+
