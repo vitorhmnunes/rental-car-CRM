@@ -1,4 +1,4 @@
-# Gerenciador de Locadora de Veículos
+# Sistema CRM de uma Locadora de Veículos
 
 - Aplicação responsável por gerenciar dados de uma loja locadora de veículos.
 
