@@ -4,16 +4,16 @@
 
 ## Documentação
 
- * [Locadora de Veículos](##Questão-1)
- * [RentalCar - CRM](##Questão-2)
+ * [Locadora de Veículos](##Locadora-de-Veículos)
+ * [RentalCar - CRM](##RentalCar---CRM)
 
 ## Locadora de Veículos
 
 - Esta é a primeira versão da aplicação.
 - Com programação estruturada e todo o funcionamento por meio do prompt de comando
-- Nela é possível adicionar dados dos clientes, veículos e aluguéis e perpetua-los por meio de arquivos .txt
+- Nela é possível adicionar dados dos clientes, veículos e aluguéis e perpetuá-los por meio de arquivos .txt
 
-## Rental Car CRM
+## RentalCar - CRM
 
 - Segunda versão da aplicação, em desenvolvimento.
 - Uso da orientação a objetos em toda a aplicação.
