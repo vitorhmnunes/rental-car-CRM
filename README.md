@@ -2,8 +2,20 @@
 
 - Aplicação responsável por gerenciar dados de uma loja locadora de veículos.
 
-## Estrutura do algoritmo
+## Documentação
 
-- Por meio de classes e funções a aplicação possibilita o usuário inserir informações sobre os veículos, clientes e aluguéis, requisitar esses dados e perpetuar os dados por meio do armazenamento em arquivos .txt.
+ * [Locadora de Veículos](##Questão-1)
+ * [RentalCar - CRM](##Questão-2)
+
+## Locadora de Veículos
+
+- Esta é a primeira versão da aplicação.
+- Com programação estruturada e todo o funcionamento por meio do prompt de comando
+- Nela é possível adicionar dados dos clientes, veículos e aluguéis e perpetua-los por meio de arquivos .txt
+
+## Rental Car CRM
+
+- Segunda versão da aplicação, em desenvolvimento.
+- Mesma funcionalidade, todavia, agora será implementada por meio de orientação a objetos e a perpetuação dos dados será feita por meio do Microsft SQL Server
 
 
