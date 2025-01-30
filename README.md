@@ -16,6 +16,8 @@
 ## Rental Car CRM
 
 - Segunda versão da aplicação, em desenvolvimento.
-- Mesma funcionalidade, todavia, agora será implementada por meio de orientação a objetos e a perpetuação dos dados será feita por meio do Microsft SQL Server
+- Uso da orientação a objetos em toda a aplicação.
+- Possui uma interface gráfica feita por meio da biblioteca TkInter
+- Terá a perpetuação de dados por meio do Microsft SQL Server
 
 
